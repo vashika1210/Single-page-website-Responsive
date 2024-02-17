@@ -1,0 +1,542 @@
+
+/* Don't add negative margin for all rows */
+
+
+
+
+
+
+
+
+
+
+  
+
+.head{
+    padding-left: 60px;
+}
+nav{
+  height: 70px;
+  box-shadow: 2px 20px 30px rgb(9, 2, 2);
+}
+
+.top-right {
+  position: absolute;
+  top: 50px;
+  left: 500px;
+  color: white;
+
+}
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+/* ------navbar-------- */
+.nav-item
+{
+  color: white;
+  padding-left: 30px ;
+}
+
+#navitem1{
+  margin-left: 500px;
+}
+#navbarNav .nav-link {
+  color: white;
+}
+#imgtext
+{
+  position: relative;
+  bottom: -610px;
+  text-align: center;
+  color: white;
+}
+#mid
+{
+  position: absolute;
+  top: 500px;
+  padding-left: 100px;
+  font-size: 85rem;
+ font-family: 'Kaushan Script', cursive;
+  color: white;
+
+}
+.companylogo
+{
+  background-color: #23262a;
+  background-position: center;
+  text-align: center;
+}
+#title-1
+{
+  height: 30vh;
+  align-items: center;
+  position: relative;
+  top: 140px;
+}
+
+#home
+{
+  background-image: url('./background.png');
+  width: 100%;
+  height: 150vh;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+#arrow
+{
+  padding-left: 340px;
+}
+
+/* HOME-2----------- */
+.row-1
+{
+  height: 2000px;
+}
+#btn
+{
+  position: relative;
+  top:81%;
+  left:46%;
+  width: 160px;
+}
+  h2{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+  }
+  .plate
+  {
+    
+    background-repeat: no-repeat;
+    background-position: center;
+  height: 50vh;
+
+    padding-left: 500px ;
+    display: block;
+  }
+  #seebtn
+  {
+    height: 45px;
+    width: 120px;
+    position: relative;
+    top:450px;
+    right:280px;
+  }
+
+  /* ABOUT-------------- */
+  #about
+  {
+    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.6),url('./grapes.png'));
+    background-image: url('./grapes.png');
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+  }
+  #history{
+  text-align: center;
+   font-family: 'Playfair Display', serif;
+  color: gold;
+  font-size: 34px;
+  padding-top: 20px;
+}
+.text-1
+{
+  font-size: 30px;
+  color: #f8f1f1;
+  padding: 30px 198px;
+   font-family: 'Playfair Display', serif;
+}
+.playbutton{
+  position: relative;
+ left: 45%;
+ top:17%
+}
+/* ABOUT-2---------------------- */
+#about2
+{
+  background-image: url('./netbg.png');
+  width: 50%;
+  height: 70vh;
+  background-repeat: no-repeat;
+}
+#waffle
+{
+  width: 50%;
+  height: 50vh;
+  margin-top: 10%;
+  margin-left: 30%;
+}
+#heading
+{
+  
+  font-size: 30px;
+  padding: 50px 250px;
+  font-family: 'Playfair Display', serif;
+}
+.text-2
+{
+   font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  color: #060303;
+  padding: 10px  20px;
+}
+#btn2
+{
+  margin-left: 200px;
+}
+/* ABOUT3------------------ */
+#about3
+{
+  /* background-image: url('./netbg-2.png'); */
+  width: 50%;
+  height: 70vh;
+  background-repeat: no-repeat;
+  background: linear-gradient(rgb(1, 1, 1),black,url('./netbg-2.png'));
+}
+#waffle-2
+{
+  
+  width: 100%;
+  height: 70vh;
+ 
+}
+.para-2
+{
+  background-color: #060303;
+}
+.text-3
+{
+   font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  color: #f3eeee;
+  padding: 10px  20px;
+}
+#heading-2
+{
+  color: white;
+  font-size: 30px;
+  padding: 50px 250px;
+  font-family: 'Playfair Display', serif;
+}
+/* GALLERY----------------------- */
+.gallery-1
+{
+  margin-left: 50px;
+}
+
+#para3
+{
+  background-image: url('./rasberry.png');
+  width: 100%;
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.text-4
+{
+   font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  color: #f3eeee;
+  padding: 10px  20px;
+  margin-left: 100px;
+}
+
+/* VECTOR---------------------- */
+
+
+#title
+{
+  margin-top: 100px;
+  padding: 1px 100px;
+  height: 24vh;
+}
+
+#offer
+{
+  height: 10vh;
+  position: relative;
+  left: 180px;
+}
+.text-5
+{
+   font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  color: #000000;
+  width: 200px;
+  
+}
+#subheading
+{
+ font-family: 'Playfair Display', serif;
+ font-weight: 700;
+}
+.vector
+{
+  padding-left: 159px;
+}
+#btn3
+{
+ width: 139px;
+}
+/* CONTACT--------------- */
+#contact
+{
+  background-image: url(./contactbg.png);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+#heading-3
+{
+  color:gold;
+  font-size: 30px;
+ padding: 100px 2px 2px 100px;
+  font-family: 'Playfair Display', serif;
+}
+.text-6
+{
+   font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  color: #f3eeee;
+  padding: 10px 20px;
+}
+#heading-4
+{
+  color:rgb(246, 245, 239);
+  font-size: 30px;
+ padding: 100px 2px 2px 100px;
+  font-family: 'Playfair Display', serif;
+}
+#subheading-2
+{
+   font-family: 'Playfair Display', serif;
+   color:rgb(246, 245, 239);
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 90px;
+}
+#line
+{
+  color: white;
+  width: 400px;
+  margin-top: 30px;
+    margin-left: 90px;
+    
+}
+#line-2
+{
+  color: white;
+  width: 400px;
+  margin-top: 90px;
+    margin-left: 90px;
+}
+#btn4
+{
+  margin-left: 100px;
+}
+.logos{
+  display: flex;
+  flex-direction: column;
+}
+.logo
+{
+  height: 3vh;
+  width: 23px;
+  margin-top: 60px;
+}
+.Twitter
+{
+  margin-top: 140px;
+}
+
+
+
+
+
+
+@media screen and (max-width:576px) {
+ 
+body 
+{
+  padding-right: -450px;
+}
+  #heading
+{
+  padding: 0;
+  font-size: 10px;
+}
+.text-2
+{
+  font-size: 15px;
+}
+.text-1
+{
+  padding: 10px;
+  width: 450px;
+ font-size: 15px;
+}
+#waffle
+{
+  height: 20vh;
+}
+#about2
+{
+  height: 45vh;
+}
+#btn2
+{
+  margin-left: 40px;
+}
+.vector
+{
+  padding-left: 10px;
+}
+.lead-2
+{
+  display: none;
+}
+.text-4
+{
+  font-size: 15px;
+  padding: 1px  2px;
+  margin-left: 100px;
+}
+#btn2
+{
+  margin-left: 100px;
+}
+#heading-2
+{
+ 
+  font-size: 7px;
+  margin: 0px ;
+  padding: 0;
+ 
+}
+.logos{
+  display: flex;
+  flex-direction: row;
+  
+}
+.plate
+  {
+      height: 30vh;
+
+    padding-left: 70px ;
+ 
+  }
+#btn
+{
+  position: relative;
+  top:81%;
+  left:26%;
+  width: 160px;
+}
+.text-3
+{
+ 
+  font-size: 10px;
+  
+  padding: 10px  20px;
+}
+#btn2
+{
+  position: relative;
+  top:-30px;
+  margin-left: 40px;
+}
+.playbutton{
+  position: relative;
+ left: 45%;
+ top:15%
+}
+#heading-3
+{
+  
+  font-size: 17px;
+ padding: 10px ;
+}
+.text-6
+{
+  font-size: 15px;
+  padding: 10px 20px;
+}
+#heading-4
+{
+  font-size: 10px;
+ padding: 10px 2px 2px 100px;
+}
+.Twitter
+{
+  margin-top: 0px;
+}
+.logo    
+{
+  height: 3vh;
+  width: 23px;
+  margin-top: 0px;
+  padding-left: 7px;
+}
+
+}
+
+@media  only screen and (min-width:576px)  and (max-width:768px)
+{
+#subheading
+{
+ font-weight: 10;
+ font-size: 10px;
+}
+.vector
+{
+  padding-left: 15px;
+}
+.lead-2{
+  display: none;
+}
+.text-4
+{
+  
+  font-size: 15px;
+  color: #f3eeee;
+  padding: 1px  2px;
+  margin-left: 100px;
+}
+#offer
+{
+  
+  position: relative;
+  left: 140px;
+}
+#title
+{
+  margin-top: 100px;
+  padding: 1px 100px;
+  height: 14vh;
+}
+.gallery-1
+{
+  margin-left: 50px;
+}
+
+
+
+
+}
+
+@media  only screen and (min-width:768px)  and (max-width:1024px)
+{
+
+
+
+
+}
